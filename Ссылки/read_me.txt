@@ -1,0 +1,2 @@
+https://github.com/lenarsaitov/cianparser - ссылка на библиотеку 
+https://github.com/timurkanaz/Russia_geojson_OSM/blob/master/GeoJson's/Cities/Москва_Moscow.geojson - ссылка на geojson с районами Москвы
